@@ -1,2 +1,39 @@
-// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
+html,body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+	max-width: 550px;
+	margin: 0 auto;
+	display: block;
+	margin-bottom:-30px;
+}
+
+.photos img{
+	max-width:100%;
+	margin: 0 auto;
+    display: block;
+}
+
+li{
+	list-style:none;
+}
+
+.info{
+	margin-bottom:50px;
+	text-align:center;
+	text-transform:uppercase;
+	color:#8D8E87;
+}
+
+.info ul{
+	padding:0;
+}
+
+.info h3{
+	color:#BFCFD8;
+	text-transform:uppercase;
+	text-align:center;
+}
