@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Logopedie Declercq</title>
 
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,700,500' rel='stylesheet' type='text/css'>
@@ -26,6 +27,9 @@
 		<li>info@logopedie-declercq.be</li>
 		<li>0474 78 42 65</li>
 	</ul>
+
+	<a href="/folder-stotteren.pdf" class="downloadlink">BEKIJK DE FOLDER HIER</a>
+
 </div>
 
 <div class="photos col-md-12">

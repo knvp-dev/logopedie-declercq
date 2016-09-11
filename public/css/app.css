@@ -5761,4 +5761,8 @@ li {
   text-transform: uppercase;
   text-align: center; }
 
+.downloadlink {
+  font-weight: 600;
+  color: #384D56; }
+
 /*# sourceMappingURL=app.css.map */
