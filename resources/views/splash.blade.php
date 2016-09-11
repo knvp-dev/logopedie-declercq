@@ -28,7 +28,7 @@
 		<li>0474 78 42 65</li>
 	</ul>
 
-	<a href="/folder-stotteren.pdf" class="downloadlink">BEKIJK DE FOLDER HIER</a>
+	<a href="/folder-stotteren.pdf" class="downloadlink">BEKIJK DE FOLDER OVER STOTTEREN HIER</a>
 
 </div>
 
